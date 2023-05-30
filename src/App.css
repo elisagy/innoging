@@ -1,0 +1,12 @@
+body {
+  background-color: #282c34;
+}
+
+.App {
+  margin: 2em;
+  text-align: center;
+}
+
+canvas {
+  border: 3px dashed white;
+}
